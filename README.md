@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0199-binary-tree-right-side-view) |
+## Array
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
