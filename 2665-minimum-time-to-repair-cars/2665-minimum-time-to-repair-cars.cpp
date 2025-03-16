@@ -1,32 +1,57 @@
+//This is the leetcode editorial submission involving heaps which is a new technique
+//so that i can remember when i see it next time
 class Solution {
 public:
-    bool check(vector<int>&ranks,long long mid,int cars){
-        long long count=0;
-        for(int i=0;i<ranks.size();i++){
-            long long squaredOffset=mid/ranks[i];
-            int carsRepaired=sqrt(squaredOffset);
-            count+=carsRepaired;
+    long repairCars(vector<int>& ranks, int cars) {
+        // Count the frequency of each rank
+        unordered_map<int, int> count;
+        for (int rank : ranks) {
+            count[rank] += 1;
         }
-        return count<cars;
-    }
-    long long repairCars(vector<int>& ranks, int cars) {
-        //given that it repair k cars in r*k*k minutes i.e r*k for 1 car
-        //so in time t it will repair sqrt k*k<=t/r i.e k=sqrt(k)
-        //so if total Cars >=cars than t is possible otherwise we need 
-        //to increment time i.e function is monotonic FFFTTTTT and so on
-        //its a binary search problem where f(t)=can all cars be repaired in t minutes
 
-        long long s=-1,e=*max_element(ranks.begin(),ranks.end())*(cars*1ll*cars) +1;
+        // Create a Min-heap (priority_queue in C++ std library) storing [time,
+        // rank, n, count]
+        // - time: time for the next repair
+        // - rank: mechanic's rank
+        // - n: cars repaired by this mechanic
+        // - count: number of mechanics with this rank
+        // Initial time = rank (as rank * 1^2 = rank)
+        auto comp = [](vector<long>& a, vector<long>& b) {
+            return a[0] > b[0];
+        };
+        priority_queue<vector<long>, vector<vector<long>>, decltype(comp)>
+            minHeap(comp);
 
-        while(s+1<e){
-            long long mid=s+(e-s)/2;
-            if(check(ranks,mid,cars)){
-                s=mid;
-            }
-            else{
-                e=mid;
-            }
+        // Add initial entries to the heap
+        for (auto it : count) {
+            int rank = it.first;
+            // Elements: [time, rank, cars_repaired, mechanic_count]
+            minHeap.push({rank, rank, 1, it.second});
         }
-        return e;
+
+        long time = 0;
+        // Process until all cars are repaired
+        while (cars > 0) {
+            // Pop the mechanic with the smallest current repair time
+            vector<long> current = minHeap.top();
+            minHeap.pop();
+            time = current[0];
+            int rank = current[1];
+            long n = current[2];
+            int mechCount = current[3];
+
+            // Deduct the number of cars repaired by this mechanic group
+            cars -= mechCount;
+
+            // Increment the number of cars repaired by this mechanic
+            n += 1;
+
+            // Push the updated repair time back into the heap
+            // The new repair time is rank * n^2 (time increases quadratically
+            // with n)
+            minHeap.push({rank * n * n, rank, n, mechCount});
+        }
+
+        return time;
     }
 };
