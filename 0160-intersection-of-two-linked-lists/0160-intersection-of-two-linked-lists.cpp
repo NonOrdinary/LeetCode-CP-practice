@@ -9,6 +9,9 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        //exploited len diffrence as linked list is linear so
+        //lenA=a+x and lenB=b+x where x is length of common linked list
+        //so if somehow we can make a=b then we are done and it can be done 
         int lenA=0;
         ListNode *root=headA;
         while(root!=NULL){
