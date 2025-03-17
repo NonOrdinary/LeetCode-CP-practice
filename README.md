@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
