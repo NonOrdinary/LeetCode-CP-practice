@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
