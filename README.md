@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2665-minimum-time-to-repair-cars](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3639-zero-array-transformation-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0713-subarray-product-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
 ## Union Find
 |  |
