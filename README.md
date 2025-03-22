@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0543-diameter-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Math
 |  |
