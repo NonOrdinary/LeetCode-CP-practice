@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -129,4 +130,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
+| [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
+## Design
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
