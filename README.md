@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
