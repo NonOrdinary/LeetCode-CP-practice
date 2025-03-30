@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
