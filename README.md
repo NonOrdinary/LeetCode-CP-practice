@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
