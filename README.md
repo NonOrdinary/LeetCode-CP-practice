@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2383-add-two-integers) |
 ## Greedy
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Stack
 |  |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
