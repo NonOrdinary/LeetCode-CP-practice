@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0713-subarray-product-less-than-k](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2383-add-two-integers) |
 ## Greedy
