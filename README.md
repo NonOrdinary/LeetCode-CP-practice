@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
@@ -172,15 +174,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
 ## Ordered Set
 |  |
