@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
