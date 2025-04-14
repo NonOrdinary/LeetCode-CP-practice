@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
