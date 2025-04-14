@@ -1,30 +1,22 @@
 class Solution {
 public:
-    int countSubstrings(string s) {
-        int result=0;
-        vector<vector<int>>dp(s.length(),vector<int>(s.length(),0));
-        for(int i=0;i<s.length();i++){
-            dp[i][i]=1;
+    void count(string &s,int &result,int left,int right){
+        while(left>=0 && right<s.length() && s[left]==s[right]){
             result++;
+            left--,right++;
         }
-
-        for(int i=0;i<s.length()-1;i++){
-            if(s[i]==s[i+1]){
-                dp[i][i+1]=1;
-                result++;
-            }
+    }
+    int countSubstrings(string s) {
+        /*
+            This is exapnding from the centre,its just the dp idea that we use 
+            but we do not store previous,rather we calculate on the go 
+            this will be only O(n2) as we will be traversing the array
+        */
+        int result=0;
+        for(int i=0;i<s.length();i++){
+            count(s,result,i,i);
+            count(s,result,i,i+1);
         }
-        
-        for(int len=3;len<=s.length();len++){
-            for(int j=0;j<=s.length()-len;j++){
-                int right=j+len-1;
-                if(s[j]==s[right] && dp[j+1][right-1]==1){
-                    dp[j][right]=1;
-                    result++;
-                }
-            }
-        }
-
         return result;
     }
 };
