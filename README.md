@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0020-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
