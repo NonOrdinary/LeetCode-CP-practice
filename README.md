@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
