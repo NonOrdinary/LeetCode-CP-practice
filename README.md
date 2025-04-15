@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0295-find-median-from-data-stream) |
