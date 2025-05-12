@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2161-stock-price-fluctuation](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2161-stock-price-fluctuation) |
+| [2215-finding-3-digit-even-numbers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1293-three-consecutive-odds](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0368-largest-divisible-subset](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Stack
 |  |
