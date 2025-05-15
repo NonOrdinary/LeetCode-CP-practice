@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2308-divide-array-into-equal-pairs](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/2690-house-robber-iv) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3430-count-days-without-meetings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0416-partition-equal-subset-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0647-palindromic-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0435-non-overlapping-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
