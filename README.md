@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0778-reorganize-string](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0778-reorganize-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/NonOrdinary/LeetCode-CP-practice/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
